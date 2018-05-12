@@ -1,0 +1,32 @@
+_repo: An-Deutschlands-Jugend_23396
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rathenau, Walther
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '9616'
+    url: http://www.gutenberg.org/2009/agents/9616
+    wikipedia: http://en.wikipedia.org/wiki/Walther_Rathenau
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2007-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23396'
+  lccn: '21008886'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (1914-1939) -- Germany'
+- !lcsh 'Ethics'
+- !lcc 'DD'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Speeches, addresses, etc.'
+title: An Deutschlands Jugend
+url: http://www.gutenberg.org/ebooks/23396
